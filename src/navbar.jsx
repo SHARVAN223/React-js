@@ -19,3 +19,25 @@
 // }
 
 // export default App
+
+
+
+// import '/tailwind.css'
+
+let Navbar =() =>{
+    return (
+        <>
+        <div className="div1">
+            <h1>Welcome React</h1>
+        </div>
+        <div className="div2">
+            <p>Home</p>
+            <p>Contact</p>
+            <p>About</p>
+            <p>Service</p>
+        </div>
+        </>
+    )
+}
+
+export default Navbar

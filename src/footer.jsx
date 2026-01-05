@@ -1,15 +1,9 @@
-let Footer1=()=>{
 
+
+let Footer = () =>{
     return(
         <h1>This is Footer</h1>
     )
 }
 
- let Footer2=()=>{
-
-    return(
-        <h4>This is Second Footer</h4>
-    )
-}
-
-export {Footer1,Footer2}
+export default Footer
